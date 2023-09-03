@@ -485,7 +485,7 @@ nav {
   right: 75%;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   .hero-section {
     display: flex;
     justify-content: center;
@@ -609,7 +609,7 @@ nav {
   top: 30%;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   .review-section {
     min-height: 100vh;
     background-color: var(--white);
@@ -744,7 +744,7 @@ nav {
   cursor: pointer;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   .destination-section {
     min-width: 100%;
   }
@@ -841,7 +841,7 @@ nav {
   z-index: 0;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   .discount-section {
     display: flex;
     flex-direction: column;
@@ -1045,7 +1045,7 @@ nav {
   left: 40%;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   .form-image {
     display: none;
   }
@@ -1134,7 +1134,7 @@ nav {
   line-height: 22px; /* 137.5% */
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   .testimonial-container {
     display: flex;
     flex-direction: column;
@@ -1223,7 +1223,7 @@ nav {
   border-right: 2px solid black;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 800px) {
   .footer-section {
     padding: 3rem;
   }
